@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_perfumes.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_perfumes.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_perfumes.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\perfumes.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_exit.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dove.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_dove.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_x.jpg.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\x.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_exit.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_soaps.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\soaps.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_doveoxygenmoisture.jpg.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\doveoxygenmoisture.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_soaps.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_soaps.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_garnier.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\garnier.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_homepage.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_newuser.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\newuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hairoil.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_hairoil.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sampoo.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_sampoo.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_credits.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\credits.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_garnier.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\garnier.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_exit.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_review1.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\review1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_toothpaste.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\toothpaste.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h.jpg.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\h.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_loreal.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\loreal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_newuser.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\newuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_newuser.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_newuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_garnier.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_garnier.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_flipkart.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\flipkart.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_homepage.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_sampoo.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\sampoo.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lorealparisfallrepair.jpg.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\lorealparisfallrepair.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_perfumes.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_perfumes.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hairoil.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_hairoil.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_garnierfructis.png.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\garnierfructis.png"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_dove.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\dove.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loreal.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_loreal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_loreal.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\loreal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_hairoil.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\hairoil.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_welcome.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_newuser.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_newuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_garnier.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_garnier.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loreal.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_loreal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lorealparisfallrepair.jpg.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\lorealparisfallrepair.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d.jpg.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\d.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_soaps.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_soaps.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_credits.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_credits.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_amwaysatinique.jpg.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\amwaysatinique.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_exit.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_amwaysatinique.jpg.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\amwaysatinique.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_juxtaposition.png.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\juxtaposition.png"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_welcome.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_homepage.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_dove.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\dove.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h.jpg.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\h.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dove.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_dove.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_toothpaste.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\toothpaste.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_toothpaste.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_toothpaste.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_review1.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_review1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_review1.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_review1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\raw_az.mp3.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\raw\\az.mp3"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_credits.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_credits.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sampoo.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_sampoo.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_flipkart.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_flipkart.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_sampoo.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\sampoo.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_doveoxygenmoisture.jpg.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\doveoxygenmoisture.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_toothpaste.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_toothpaste.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_perfumes.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\perfumes.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d.jpg.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\d.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_juxtaposition.png.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\juxtaposition.png"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_x.jpg.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\x.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\raw_az.mp3.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\raw\\az.mp3"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_f.png.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\f.png"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_hairoil.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\hairoil.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_flipkart.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_flipkart.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_flipkart.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\menu\\flipkart.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_review1.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\review1.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_credits.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\credits.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_garnierfructis.png.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\garnierfructis.png"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\menu_soaps.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\menu\\soaps.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_f.png.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\f.png"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_homepage.xml.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SUMIT\\Desktop\\Resume Interview\\Times Global (Juxaposition)\\Juxtaposition\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

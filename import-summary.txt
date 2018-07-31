@@ -1,0 +1,128 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* LoginPage\
+* LoginPage\.classpath
+* LoginPage\.project
+* LoginPage\.settings\
+* LoginPage\.settings\org.eclipse.jdt.core.prefs
+* LoginPage\AndroidManifest.xml
+* LoginPage\bin\
+* LoginPage\bin\AndroidManifest.xml
+* LoginPage\bin\LoginPage.apk
+* LoginPage\bin\classes.dex
+* LoginPage\bin\classes\
+* LoginPage\bin\classes\com\
+* LoginPage\bin\classes\com\example\
+* LoginPage\bin\classes\com\example\loginpage\
+* LoginPage\bin\classes\com\example\loginpage\BuildConfig.class
+* LoginPage\bin\classes\com\example\loginpage\MainActivity.class
+* LoginPage\bin\classes\com\example\loginpage\R$attr.class
+* LoginPage\bin\classes\com\example\loginpage\R$dimen.class
+* LoginPage\bin\classes\com\example\loginpage\R$drawable.class
+* LoginPage\bin\classes\com\example\loginpage\R$id.class
+* LoginPage\bin\classes\com\example\loginpage\R$layout.class
+* LoginPage\bin\classes\com\example\loginpage\R$menu.class
+* LoginPage\bin\classes\com\example\loginpage\R$string.class
+* LoginPage\bin\classes\com\example\loginpage\R$style.class
+* LoginPage\bin\classes\com\example\loginpage\R.class
+* LoginPage\bin\dexedLibs\
+* LoginPage\bin\dexedLibs\android-support-v4-60dd6f9fa8ce109035fdd3dccca421d1.jar
+* LoginPage\bin\jarlist.cache
+* LoginPage\bin\res\
+* LoginPage\bin\res\crunch\
+* LoginPage\bin\res\crunch\drawable-hdpi\
+* LoginPage\bin\res\crunch\drawable-hdpi\ic_launcher.png
+* LoginPage\bin\res\crunch\drawable-mdpi\
+* LoginPage\bin\res\crunch\drawable-mdpi\ic_launcher.png
+* LoginPage\bin\res\crunch\drawable-xhdpi\
+* LoginPage\bin\res\crunch\drawable-xhdpi\ic_launcher.png
+* LoginPage\bin\res\crunch\drawable-xxhdpi\
+* LoginPage\bin\res\crunch\drawable-xxhdpi\ic_launcher.png
+* LoginPage\bin\resources.ap_
+* LoginPage\gen\
+* LoginPage\gen\com\
+* LoginPage\gen\com\example\
+* LoginPage\gen\com\example\loginpage\
+* LoginPage\gen\com\example\loginpage\BuildConfig.java
+* LoginPage\gen\com\example\loginpage\R.java
+* LoginPage\ic_launcher-web.png
+* LoginPage\libs\
+* LoginPage\libs\android-support-v4.jar
+* LoginPage\proguard-project.txt
+* LoginPage\project.properties
+* LoginPage\res\
+* LoginPage\res\drawable-hdpi\
+* LoginPage\res\drawable-hdpi\ic_launcher.png
+* LoginPage\res\drawable-mdpi\
+* LoginPage\res\drawable-mdpi\ic_launcher.png
+* LoginPage\res\drawable-xhdpi\
+* LoginPage\res\drawable-xhdpi\ic_launcher.png
+* LoginPage\res\drawable-xxhdpi\
+* LoginPage\res\drawable-xxhdpi\ic_launcher.png
+* LoginPage\res\layout\
+* LoginPage\res\layout\activity_main.xml
+* LoginPage\res\menu\
+* LoginPage\res\menu\main.xml
+* LoginPage\res\values-sw600dp\
+* LoginPage\res\values-sw600dp\dimens.xml
+* LoginPage\res\values-sw720dp-land\
+* LoginPage\res\values-sw720dp-land\dimens.xml
+* LoginPage\res\values-v11\
+* LoginPage\res\values-v11\styles.xml
+* LoginPage\res\values-v14\
+* LoginPage\res\values-v14\styles.xml
+* LoginPage\res\values\
+* LoginPage\res\values\dimens.xml
+* LoginPage\res\values\strings.xml
+* LoginPage\res\values\styles.xml
+* LoginPage\src\
+* LoginPage\src\com\
+* LoginPage\src\com\example\
+* LoginPage\src\com\example\loginpage\
+* LoginPage\src\com\example\loginpage\MainActivity.java
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.4.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

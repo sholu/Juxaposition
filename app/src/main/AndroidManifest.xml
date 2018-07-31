@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.juxtaposition"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.juxtaposition.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.A"
+            android:label="@string/title_activity_" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Welcome"
+            android:label="@string/title_activity_welcome" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Login"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Newuser"
+            android:label="@string/title_activity_newuser" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Homepage"
+            android:label="@string/title_activity_homepage" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Toothpaste"
+            android:label="@string/title_activity_toothpaste" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Perfumes"
+            android:label="@string/title_activity_perfumes" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Hairoil"
+            android:label="@string/title_activity_hairoil" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Soaps"
+            android:label="@string/title_activity_soaps" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Sampoo"
+            android:label="@string/title_activity_sampoo" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Dove"
+            android:label="@string/title_activity_dove" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Loreal"
+            android:label="@string/title_activity_loreal" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Garnier"
+            android:label="@string/title_activity_garnier" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Review1"
+            android:label="@string/title_activity_review1" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Exit"
+            android:label="@string/title_activity_exit" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Credits"
+            android:label="@string/title_activity_credits" >
+        </activity>
+        <activity
+            android:name="com.example.juxtaposition.Flipkart"
+            android:label="@string/title_activity_flipkart" >
+        </activity>
+    </application>
+
+</manifest>
